@@ -21,7 +21,7 @@
     {
       "title": "am a we developer",
       "details": "lorem ipsum balagalaa lorem ipsum balagalaa lorem ipsum balagalaalorem ipsum balagalaa lorem ipsum balagalaa lorem ipsum balagalaa",
-      "complete": false,
+      "complete": true,
       "id": 4
     }
   ]
